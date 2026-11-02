@@ -1,16 +1,5 @@
 # TP Vue.js
 
-Réalisé par ER-RAFIY Taha Amine & SAADEDDINE Zineb.
+Réalisé par ER-RAFIY Taha Amine et SAADEDDINE Zineb.
 
-## Travaux pratiques
-
-- [TP 3 - Composants et cycle de vie](TP-3-Composants-Cycle-de-vie/)
-
-Le dossier du TP contient le projet Vue 3 / Vite complet.
-
-Pour le lancer, ouvrez le dossier du TP puis exécutez :
-
-```sh
-npm install
-npm run dev
-```
+Ce dossier contient les TP 3, 4 et 5. Consultez le [README principal](../README.md) pour la présentation, les prérequis et les instructions de lancement de chaque application.
